@@ -4,8 +4,8 @@ function send() {
   Email.send({
     Host: "smtp.gmail.com",
     Username: "jagres3211@gmail.com",
-    Password: "yogaprasetya30211",
-    To: "jagres3211@gmail.com",
+    Password: "yogaprasetya3021",
+    To: "yogaagle321z@gmail.com",
     From: document.getElementById("email").value,
     Subject: document.querySelector("#fnama").value + " mengirim anda pesan",
     Body: document.getElementById("pesan").value + "<br><br><br><br>",
