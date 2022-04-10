@@ -6,7 +6,7 @@ const send = () => {
     Port: 587,
     Username: "jagres3211@gmail.com",
     Password: "twmcotxkuagzahtm",
-    To: "jagres3211@gmail.com",
+    To: "yogaagle321z@gmail.com",
     From: document.getElementById("email").value,
     Subject: document.querySelector("#fnama").value + " mengirim anda pesan",
     Body: document.getElementById("pesan").value + "<br><br><br><br>",
